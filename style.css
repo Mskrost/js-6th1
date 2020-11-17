@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+  }
+  
+h2, h3 {
+    color: purple;
+  }
+  
+.underlined {
+    text-decoration: underline;
+  }
+  
+.colored {
+    color: purple;
+  }
